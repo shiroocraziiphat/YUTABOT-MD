@@ -1,7 +1,7 @@
 let fs = require('fs')
 
-global.kontak = ['17608914335'] //Jangan Sembarang Ganti 
-global.owner = ['17608914335','62895612153565'] // Put your number here
+global.kontak = ['6287892711054'] //Jangan Sembarang Ganti 
+global.owner = ['6287892711054','6287892711054'] // Put your number here
 global.linkGC = ['https://chat.whatsapp.com/EZT51mPq69162pfM3afL1h'] // ganti jadi group lu
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
