@@ -48,7 +48,7 @@ function button(teks, user) {
     
     const buttonMessage = {
         contentText: teks,
-        footerText: '©games-wabot',
+        footerText: '©shiro-md',
         buttons: buttons,
         headerType: 1
     }
