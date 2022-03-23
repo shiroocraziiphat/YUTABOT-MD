@@ -10,7 +10,7 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├🏧 082287219167 (OVO/Dana/GoPay)
+├🏧 087892711054 Gopay
 ├📍 -
 └────
 Berapapun donasi kalian akan sangat berarti 👍
@@ -18,7 +18,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Arigatou!
 
 Contact person Owner:
-wa.me/17608914335 (Owner)`
+wa.me/6287892711054 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c68b3ece-d10f-45c3-bdee-bb2ef415b41e/d6o9xrb-779e755b-c7d0-4c11-a438-c0d5058377ab.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M2OGIzZWNlLWQxMGYtNDVjMy1iZGVlLWJiMmVmNDE1YjQxZVwvZDZvOXhyYi03NzllNzU1Yi1jN2QwLTRjMTEtYTQzOC1jMGQ1MDU4Mzc3YWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.myn2I-q6rQL0sDJ2SmsvwmWulRltJaOdllpW9LqrlLM' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -35,8 +35,8 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://images-wixmp-e
            },
                {
              callButton: {
-               displayText: 'Telkomsel',
-               phoneNumber: '+62 813-5104-7727'
+               displayText: 'Gopay',
+               phoneNumber: '+62 878-9271-1054'
              }
            },           
                {
